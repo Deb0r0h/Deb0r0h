@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 -🌱 I’m currently a student at University of Padua: Master degree in Computer Engineering Artificial Intelligence and Robotics 🤖👾🤖
 
-- 👨‍💻My top three: C++, Pyhton, Java 
+- 👨‍💻Dream in: C++, Pyhton, Java 
 
 - 📫 Reach me at **gabriel.taormina@protonmail.com**
 
