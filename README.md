@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Taormina</h1>
-<h3 align="center">A developer from Italy 🍕</h3>
+<h3 align="center">A software engineer from Italy 🍕</h3>
 
 <img align="right" alt="coding" width="400" src="codeboy-removebg.png">
 -🌱 I’m currently a student at University of Padua: Master degree in Computer Engineering Artificial Intelligence and Robotics 🤖👾🤖
